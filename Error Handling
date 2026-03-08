@@ -1,9 +1,0 @@
-The program protects against:
-
- Division by zero → clear the error message
-
- Square root of a negative number → clear the error message
-
- Modulo par zero → clear the error message
-
- Enter text instead of a number → the program prompts you again to enter text
